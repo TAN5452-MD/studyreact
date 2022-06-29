@@ -1,0 +1,28 @@
+
+.month{
+    border-radius: 5px 5px 0 0;
+    margin-left: 10px;
+    height: 20px;
+    width: 60px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.day{
+    display:inline-block;
+    border-radius: 0 0 5px 5px;
+    margin-left: 10px;
+    height: 40px;
+    width: 60px;
+    color: black;
+    background: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.item{
+    margin-top: -18px;
+    font-weight: bold;
+    float: right;
+}
